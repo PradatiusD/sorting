@@ -18,6 +18,7 @@
   "homepage": "https://github.com/PradatiusD/sorting#readme",
   "dependencies": {
     "chai": "^4.1.2",
-    "chai-sorted": "^0.2.0"
+    "chai-sorted": "^0.2.0",
+    "underscore": "^1.9.1"
   }
 }
