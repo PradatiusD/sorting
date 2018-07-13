@@ -4,7 +4,7 @@ const expect = chai.expect;
 chai.use(require("chai-sorted"));
 
 /*
- * Insertion Sort
+ * Bubble Sort
  */
 
 const array = [4,5,14,14,21,1,7,8,92,421,33,44,29,87];
